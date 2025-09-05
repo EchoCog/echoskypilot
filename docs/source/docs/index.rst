@@ -364,6 +364,15 @@ Read the research:
 .. toctree::
    :hidden:
    :maxdepth: 1
+   :caption: Architecture
+
+   Architecture Overview <../architecture-overview>
+   Technical Architecture <../architecture>
+   Developer Architecture Guide <../developers/architecture-guide>
+
+.. toctree::
+   :hidden:
+   :maxdepth: 1
    :caption: References
 
    Task YAML <../reference/yaml-spec>
